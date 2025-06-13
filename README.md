@@ -83,8 +83,8 @@ Technologies Used
     Material Icons
 
 ## Preview
-Desktop View	                Mobile View
-https://screenshot-desktop.png	https://screenshot-mobile.png
+
+[Desktop](https://github.com/beleshko/Cosmic-404-Lost-in-Space/blob/main/screenshot-desktop.png)	[Mobile](https://github.com/beleshko/Cosmic-404-Lost-in-Space/blob/main/screenshot-mobile.png)
 
 ## License
 
