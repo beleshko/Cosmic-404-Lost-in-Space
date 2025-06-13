@@ -18,12 +18,12 @@ Cosmic 404 transforms the standard "Page Not Found" error into an immersive spac
 ## How to Use
 
 1. Clone the repository:
-```
+```bash
 git clone https://github.com/beleshko/cosmic-404.git
 ```
-    Open index.html in your browser
+Open 404.html in your browser
 
-GitHub Pages Setup
+## GitHub Pages Setup
 
 To use this as your GitHub 404 page:
 
@@ -75,11 +75,11 @@ Technologies Used
 
     Material Icons
 
-Preview
+## Preview
 
 https://screenshot-desktop.png
 https://screenshot-mobile.png
-License
+## License
 
 Distributed under the MIT License. See LICENSE for more information.
 
