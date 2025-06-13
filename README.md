@@ -17,9 +17,9 @@ Cosmic 404 transforms the standard "Page Not Found" error into an immersive spac
 
 ## How to Use
 
-1. Clone the repository:
+1. Clone the html:
 ```bash
-git clone https://github.com/beleshko/cosmic-404.git
+git clone https://github.com/beleshko/Cosmic-404-Lost-in-Space/404.html
 ```
 Open 404.html in your browser
 
