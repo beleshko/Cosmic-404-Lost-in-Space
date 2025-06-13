@@ -26,11 +26,15 @@ Open 404.html in your browser
 ## GitHub Pages Setup
 
 To use this as your GitHub 404 page:
-
+```
     Add 404.html to your repository root
 
-    Enable GitHub Pages in your repository settings (branch: main, folder: /root)
+    Enable GitHub Pages in your repository settings:
 
+        Source branch: main
+
+        Source folder: /root
+```
 Customization
 
 Easily customize the page by modifying:
@@ -43,8 +47,8 @@ Easily customize the page by modifying:
 
     Homepage URL for the rocket button
 
-css
-
+CSS variables:
+```css 
 /* Change color scheme */
 :root {
   --primary: #FF6B6B;
@@ -52,16 +56,19 @@ css
   --secondary: #4ECDC4;
   /* ... */
 }
+```
 
-javascript
+JavaScript parameters:
 
-// Modify starfield parameters
+```javascript
+// Modify starfield
 const starCount = 600; // Increase star density
 
 // Change home URL
 document.getElementById('homeBtn').addEventListener('click', function() {
   window.location.href = 'https://your-homepage.com';
 });
+```
 
 Technologies Used
 
@@ -76,9 +83,9 @@ Technologies Used
     Material Icons
 
 ## Preview
+Desktop View	                Mobile View
+https://screenshot-desktop.png	https://screenshot-mobile.png
 
-https://screenshot-desktop.png
-https://screenshot-mobile.png
 ## License
 
 Distributed under the MIT License. See LICENSE for more information.
